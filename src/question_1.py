@@ -3,9 +3,9 @@ import logging
 
 #setting path in logger
 logging.basicConfig(filename='status_update.log',filemode='w',level=logging.DEBUG)
-
+'''class Question_1 is not commented'''
 class Question_1:
-
+'''method is not commented'''
     def get_column(self):
         return ["Employee no","Employee name","Manager"]
 
