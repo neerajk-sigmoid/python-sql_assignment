@@ -4,7 +4,7 @@ import logging
 
 #setting path in logger
 logging.basicConfig(filename='status_update.log',filemode='w',level=logging.DEBUG)
-
+'''class Question_3 is not commented'''
 class Question_3:
     flag=True
     #function to import data from created .xlsx file and create table in database using that file
