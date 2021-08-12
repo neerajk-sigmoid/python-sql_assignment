@@ -3,7 +3,7 @@ import logging
 
 #setting path in logger
 logging.basicConfig(filename='status_update.log',filemode='w',level=logging.DEBUG)
-
+'''class Question_4 is not commented'''
 class Question_4:
     flag=True
     #function to find the Department name,Department no and compensation department wise
